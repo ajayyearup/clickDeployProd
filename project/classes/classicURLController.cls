@@ -1,7 +1,7 @@
 /**
 * @author       Ajay Kumar Lankipalle
 * @date         08/07/2018
-* @description  Class for ClassicURL lightning component
+* @description  Class for ClassicURL lightning component Update
 *
 *    -----------------------------------------------------------------------------
 *    Developer                  Date                Description
